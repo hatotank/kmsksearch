@@ -10,7 +10,7 @@ select \
 --command_version 2 \
 --limit 10 \
 --drilldowns[expression].keys "expression.name" \
---drilldowns[expression].sort_keys "_key" \
+--drilldowns[expression].sort_keys "id.capter,id.order,taps" \
 --drilldowns[expression].limit 999999 \
 --drilldowns[speaker].keys "speaker" \
 --drilldowns[speaker].sort_keys "_key" \
@@ -77,10 +77,10 @@ select \
 
 - [ドキュメント:sort_keys](http://groonga.org/ja/docs/reference/commands/select.html#select-sort-keys)
 
-内訳：チャプターID、シナリオテーブルキー
+内訳：チャプターID、チャプター内順番、タップ回数
 
 ```none
---sort_keys "id.capter,_key"
+--sort_keys "id.capter,id.order,taps"
 ```
 
 ### コマンドバージョン
