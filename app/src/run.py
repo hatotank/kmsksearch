@@ -68,15 +68,7 @@ def kmsksearch():
   # 検索ワード存在チェックと禁止文字チェック
   if not request_dict['word']:
     return render_template('_index.html',message="検索キーワードを指定してください。")
-  else:
-    # ハピエレと日日日先生に怒られるので、一文字で以下の文字は検索させない
-    # 全角：、。「」（）
-    # 半角：()
-    if len(request_dict['word']) == 1:
-      forbidden_char_list = ['、','。','「','」','（','）','(',')']
-      if request_dict['word'] in forbidden_char_list:
-        return render_template('_index.html',message="検索できない文字が含まれています。")
-    query_para_dict['word'] = request_dict['word']
+  query_para_dict['word'] = request_dict['word']
 
   # グルンガのメインクエリ作成
   groonga_query_dict["table"] = "Scenario"
@@ -107,9 +99,16 @@ def kmsksearch():
 #  groonga_query_dict["drilldowns[background].sort_keys"] = "_value.background._key"
 #  groonga_query_dict["drilldowns[background].limit"] = DRILLDROWN_LIMIT
 
-  # ANDクエリ
+  # ANDクエリと禁止文字チェック
   querystring = ''
+  forbidden_char_list = ['、','。','「','」','（','）','(',')']
   for i,v in enumerate(request_dict['word_no_sanitize'].strip().split()):
+    # ハピエレと日日日先生に怒られるので、一文字で以下の文字は検索させない
+    # 全角：、。「」（）
+    # 半角：()
+    if len(v) == 1:
+      if v in forbidden_char_list:
+        return render_template('_index.html',message="検索できない文字が含まれています。")
     if i > 0:
       querystring += ' + '
 
