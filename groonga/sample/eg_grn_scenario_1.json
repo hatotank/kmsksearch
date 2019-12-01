@@ -1,0 +1,317 @@
+[
+  {
+    "_key": "1:1",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「ああ、もうだめ。お腹空いた……」",
+    "background": "55",
+    "expression": "sad",
+    "taps": 1
+  },
+  {
+    "_key": "1:2",
+    "id": "1",
+    "speaker": "くるみ",
+    "text": "「ぶ、部長～、しっかりしてくださ～い。ほら、これ食べて元気になってください☆」",
+    "background": "55",
+    "expression": "joyful",
+    "taps": 2
+  },
+  {
+    "_key": "1:3",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「逆に死んじゃうよ！　何その色っ、鮮やかなグリーン！　それに浮いてる虹色の油みたいのはなんなの！？」",
+    "background": "55",
+    "expression": "surprise",
+    "taps": 3
+  },
+  {
+    "_key": "1:4",
+    "id": "1",
+    "speaker": "くるみ",
+    "text": "「それは企業秘密です♪」",
+    "background": "55",
+    "expression": "joyful",
+    "taps": 4
+  },
+  {
+    "_key": "1:5",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「うう……、我ながらほんとドジだよ。畑の整備にお金を使いすぎたなんて。」",
+    "background": "55",
+    "expression": "amazed",
+    "taps": 5
+  },
+  {
+    "_key": "1:6",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「でもうちの部費は少ないし、身銭を切らなきゃ野菜さんたちを養えないよ。」",
+    "background": "55",
+    "expression": "amazed",
+    "taps": 6
+  },
+  {
+    "_key": "1:7",
+    "id": "1",
+    "speaker": "くるみ",
+    "text": "「何かそれ、根本的に間違ってませんか？」",
+    "background": "55",
+    "expression": "sad",
+    "taps": 7
+  },
+  {
+    "_key": "1:8",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「ああ、今すぐお金が欲しい。いっそのこと石油王のお嫁さんになりたい……。」",
+    "background": "55",
+    "expression": "joyful",
+    "taps": 8
+  },
+  {
+    "_key": "1:9",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「た、助けて、石油王……。」",
+    "background": "55",
+    "expression": "joyful",
+    "taps": 9
+  },
+  {
+    "_key": "1:10",
+    "id": "1",
+    "speaker": "くるみ",
+    "text": "「石油王……！　すごい響きですっ。」",
+    "background": "55",
+    "expression": "surprise",
+    "taps": 10
+  },
+  {
+    "_key": "1:11",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「いい、くるみちゃん。石油王と結婚できれば、その有り余る資産を好きなように使うことができるんだよ。」",
+    "background": "55",
+    "expression": "expressionless",
+    "taps": 11
+  },
+  {
+    "_key": "1:12",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「畑は拡張し放題。好きなところに好きなようにお花を植えることができるの。この学院を緑の楽園にすることもできるんだ！」",
+    "background": "55",
+    "expression": "angry",
+    "taps": 12
+  },
+  {
+    "_key": "1:13",
+    "id": "1",
+    "speaker": "くるみ",
+    "text": "「穴も掘り放題ですね！」",
+    "background": "55",
+    "expression": "joyful",
+    "taps": 13
+  },
+  {
+    "_key": "1:14",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「そうだよっ、石油王はみんなを笑顔にできるんだよ！」",
+    "background": "55",
+    "expression": "angry",
+    "taps": 14
+  },
+  {
+    "_key": "1:15",
+    "id": "1",
+    "speaker": "ましろ",
+    "text": "「馬鹿野郎！」",
+    "background": "55",
+    "expression": "angry",
+    "taps": 15
+  },
+  {
+    "_key": "1:16",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「その声はっ、日滝先輩！」",
+    "background": "55",
+    "expression": "surprise",
+    "taps": 16
+  },
+  {
+    "_key": "1:17",
+    "id": "1",
+    "speaker": "ましろ",
+    "text": "「砂賀さん全然ダメだ！　君は大事なことを忘れている！」",
+    "background": "55",
+    "expression": "angry",
+    "taps": 17
+  },
+  {
+    "_key": "1:18",
+    "id": "1",
+    "speaker": "ましろ",
+    "text": "「少しは石油王の気持ちも考えろ！」",
+    "background": "55",
+    "expression": "angry",
+    "taps": 18
+  },
+  {
+    "_key": "1:19",
+    "id": "1",
+    "speaker": "ましろ",
+    "text": "「君は自分のことしか考えていないっ。そんな自分勝手なヤツ、石油王は好きになっちゃくれないぞ！」",
+    "background": "55",
+    "expression": "sad",
+    "taps": 19
+  },
+  {
+    "_key": "1:20",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「はっ！」",
+    "background": "55",
+    "expression": "surprise",
+    "taps": 20
+  },
+  {
+    "_key": "1:21",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「そうだった。わたしは自分のことばっかり考えて、石油王の気持ちをぜんぜんわかろうとしてなかった……！」",
+    "background": "55",
+    "expression": "sad",
+    "taps": 21
+  },
+  {
+    "_key": "1:22",
+    "id": "1",
+    "speaker": "ましろ",
+    "text": "「わかってくれたか。相手の気持ちを考えず、独りよがりでは石油王は振り向いちゃくれないだろう。」",
+    "background": "55",
+    "expression": "sleepy",
+    "taps": 22
+  },
+  {
+    "_key": "1:23",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「そうですね。わたしが間違っていました。こんな汚れた考えじゃ、石油王と釣り合うハズがなかったんです。」",
+    "background": "55",
+    "expression": "sad",
+    "taps": 23
+  },
+  {
+    "_key": "1:24",
+    "id": "1",
+    "speaker": "ましろ",
+    "text": "「だったら君がなるしかないだろ。」",
+    "background": "55",
+    "expression": "normal",
+    "taps": 24
+  },
+  {
+    "_key": "1:25",
+    "id": "1",
+    "speaker": "ましろ",
+    "text": "「石油王に！」",
+    "background": "55",
+    "expression": "angry",
+    "taps": 25
+  },
+  {
+    "_key": "1:26",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「ーッッ！？　わたしが、石油王に……？」",
+    "background": "55",
+    "expression": "surprise",
+    "taps": 26
+  },
+  {
+    "_key": "1:27",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「そんな無理ですよ。わたしなんかが、石油王になれるわけないじゃないですか。」",
+    "background": "55",
+    "expression": "sad",
+    "taps": 27
+  },
+  {
+    "_key": "1:28",
+    "id": "1",
+    "speaker": "ましろ",
+    "text": "「そんなことはないぞ。わたしは砂賀さんが頑張り屋さんなのをよく知っている。そんな君なら必ずなれるさ。」",
+    "background": "55",
+    "expression": "normal",
+    "taps": 28
+  },
+  {
+    "_key": "1:29",
+    "id": "1",
+    "speaker": "くるみ",
+    "text": "「そうですよ！　部長ならなれますっ。わたしもお手伝いしますから！」",
+    "background": "55",
+    "expression": "normal",
+    "taps": 29
+  },
+  {
+    "_key": "8:30",
+    "id": "1",
+    "speaker": "みどり",
+    "text": "「くるみちゃん、日滝先輩……」",
+    "background": "55",
+    "expression": "sad",
+    "taps": 30
+  },
+  {
+    "_key": "1:31",
+    "id": "1",
+    "speaker": "ましろ",
+    "text": "「さあ、お前がッ　石油王にッ　なるんだよッッ！！」",
+    "background": "55",
+    "expression": "angry",
+    "taps": 31
+  },
+  {
+    "_key": "1:32",
+    "id": "1",
+    "speaker": "ちあき",
+    "text": "「園芸部の人たち何やってるんですか？　そこらじゅうに穴を掘ってるみたいですけど。」",
+    "background": "15",
+    "expression": "amazed",
+    "taps": 32
+  },
+  {
+    "_key": "1:33",
+    "id": "1",
+    "speaker": "るな",
+    "text": "「なんかな、油田を探してるらしいで。」",
+    "background": "15",
+    "expression": "normal",
+    "taps": 33
+  },
+  {
+    "_key": "1:34",
+    "id": "1",
+    "speaker": "ちあき",
+    "text": "「ここらへんに油田なんてあるんですか？」",
+    "background": "15",
+    "expression": "amazed",
+    "taps": 34
+  },
+  {
+    "_key": "1:35",
+    "id": "1",
+    "speaker": "るな",
+    "text": "「さあ～？」",
+    "background": "15",
+    "expression": "normal",
+    "taps": 35
+  }
+]

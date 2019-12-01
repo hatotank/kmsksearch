@@ -1,0 +1,34 @@
+[
+  {
+    "_key": "normal",
+    "name": "デフォルト"
+  },
+  {
+    "_key": "amazed",
+    "name": "びっくり"
+  },
+  {
+    "_key": "angry",
+    "name": "怒り"
+  },
+  {
+    "_key": "expressionless",
+    "name": "無表情"
+  },
+  {
+    "_key": "joyful",
+    "name": "うれしい"
+  },
+  {
+    "_key": "sad",
+    "name": "悲しい"
+  },
+  {
+    "_key": "sleepy",
+    "name": "眠たい"
+  },
+  {
+    "_key": "surprise",
+    "name": "驚き"
+  }
+]

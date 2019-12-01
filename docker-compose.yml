@@ -1,0 +1,39 @@
+version: "2"
+services:
+
+  uwsgi:
+    build: ./app
+    volumes:
+      - ./app:/var/www/
+    environment:
+      TZ: "Asia/Tokyo"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10M"
+        max-file: "10"
+
+  nginx:
+    build: ./nginx
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/index.html:/usr/share/nginx/html/index.html
+    ports:
+      - "80:80"
+    environment:
+      TZ: "Asia/Tokyo"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10M"
+        max-file: "10"
+
+  groonga:
+    build: ./groonga
+    volumes:
+      - ./groonga/db:/mnt/groonga
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10M"
+        max-file: "10"

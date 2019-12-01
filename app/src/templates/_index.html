@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-7">
+      <h1>{{ G_APP_TITLE }}</h1>
+      <form action="search" method="get">
+        <input type="text" name="word" value="">
+        <input type="submit" value="検索"><br>
+      </form>
+    </div>
+  </div>
+  {% if message %}
+  <div class="row">
+    <div class="col"><span class="keyword">{{ message }}</span></div>
+  </div>
+  {% endif %}
+  <div style="margin-top:1em;">
+  {% include '_note.html' %}
+  {% include '_footer.html' %}
+  </div>
+</div>
+{% endblock %}

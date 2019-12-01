@@ -1,0 +1,623 @@
+[
+  {
+    "_key": "2:1",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「おはようございまーす！ 今日も一日頑張っていきましょー！」",
+    "background": "5",
+    "expression": "joyful",
+    "taps": 1
+  },
+  {
+    "_key": "2:2",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「おはよう春風。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 2
+  },
+  {
+    "_key": "2:3",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「あれ、なつみちゃんは？　いつもあたしより早く来てるのに。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 3
+  },
+  {
+    "_key": "2:4",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「そういえば今日はまだ来てないわね。珍しい。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 4
+  },
+  {
+    "_key": "1:5",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「おはよ～。」",
+    "background": "5",
+    "expression": "noarmal",
+    "taps": 5
+  },
+  {
+    "_key": "2:6",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「なんか憑いてるー！！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 6
+  },
+  {
+    "_key": "2:7",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「え、なに？」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 7
+  },
+  {
+    "_key": "2:8",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「なつみちゃんの後ろになんか黒いモノが見えますよー！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 8
+  },
+  {
+    "_key": "2:9",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「ごめんねななちゃん。今日はちょっと疲れてて。冗談には付き合えないかな。」",
+    "background": "5",
+    "expression": "sad",
+    "taps": 9
+  },
+  {
+    "_key": "2:10",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「何言ってんのよ春風。ついにおかしくなったの？」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 10
+  },
+  {
+    "_key": "2:11",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「えっ。」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 11
+  },
+  {
+    "_key": "2:12",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「それにしても三波、ほんとに顔色悪いわね。何かあったの？」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 12
+  },
+  {
+    "_key": "2:13",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「う～ん、昨日転校生くんとね。神樹先輩の神社にお手伝いに行ったんだけど……。」",
+    "background": "5",
+    "expression": "sad",
+    "taps": 13
+  },
+  {
+    "_key": "2:14",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「祠のお掃除を任されたときはどうなるかと思ったけど、ダーリンとふたりっきり♪」",
+    "background": "2037",
+    "expression": "joyful",
+    "taps": 14
+  },
+  {
+    "_key": "2:15",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「神樹先輩もわたしたちに気を遣ってくれたのかな？」",
+    "background": "2037",
+    "expression": "joyful",
+    "taps": 15
+  },
+  {
+    "_key": "2:16",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「こんな薄暗い森でふたりだけ、」",
+    "background": "2037",
+    "expression": "sad",
+    "taps": 16
+  },
+  {
+    "_key": "2:17",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「押し倒されちゃったらどうしようっ。」",
+    "background": "2037",
+    "expression": "surprise",
+    "taps": 17
+  },
+  {
+    "_key": "2:18",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「きゃあん☆」",
+    "background": "2037",
+    "expression": "joyful",
+    "taps": 18
+  },
+  {
+    "_key": "2:19",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「……あ。」",
+    "background": "2037",
+    "expression": "amazed",
+    "taps": 19
+  },
+  {
+    "_key": "2:20",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「舞い上がりすぎて祠の石倒しちゃった。」",
+    "background": "2037",
+    "expression": "amazed",
+    "taps": 20
+  },
+  {
+    "_key": "2:21",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「まあ、高そうなものじゃないし。大丈夫かな。」",
+    "background": "2037",
+    "expression": "amazed",
+    "taps": 21
+  },
+  {
+    "_key": "2:23",
+    "id": "2",
+    "speaker": "",
+    "text": "ズズズズズズ……",
+    "background": "2037",
+    "expression": "sleepy",
+    "taps": 23
+  },
+  {
+    "_key": "2:24",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「……ってことがあって。そのときの疲れが残ってるのかな？」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 24
+  },
+  {
+    "_key": "2:25",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「それじゃないですかー！！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 25
+  },
+  {
+    "_key": "2:26",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「もう完全に憑りつかれちゃってるじゃないですか！！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 26
+  },
+  {
+    "_key": "2:27",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「春風、あんた大丈夫？　わたしは三波も心配だけどあんたの頭も心配だわ。」",
+    "background": "5",
+    "expression": "amazed",
+    "taps": 27
+  },
+  {
+    "_key": "2:28",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「三波も疲れてるなら無理せず保健室で休んだほうが良いわよ。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 28
+  },
+  {
+    "_key": "2:29",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「うん、そうするね。」",
+    "background": "5",
+    "expression": "sad",
+    "taps": 29
+  },
+  {
+    "_key": "8:30",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「おはようございまーす。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 30
+  },
+  {
+    "_key": "2:31",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「おはよう春風。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 31
+  },
+  {
+    "_key": "2:32",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「なつみちゃん大丈夫ですかね？　あれから結局戻ってきませんでしたけど。」",
+    "background": "5",
+    "expression": "amazed",
+    "taps": 32
+  },
+  {
+    "_key": "1:33",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「三波は頑張りすぎだから。たまには休んだ方がいいわ。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 33
+  },
+  {
+    "_key": "2:34",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「学校に来ないようだったら放課後みんなでお見舞いに行きましょ。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 34
+  },
+  {
+    "_key": "2:35",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「おはよ～。」",
+    "background": "5",
+    "expression": "sad",
+    "taps": 35
+  },
+  {
+    "_key": "2:36",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「増えてるー！！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 36
+  },
+  {
+    "_key": "2:37",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「え、なに？」",
+    "background": "5",
+    "expression": "amazed",
+    "taps": 37
+  },
+  {
+    "_key": "2:38",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「なつみちゃんに憑いてるモノが増えてますよー！！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 38
+  },
+  {
+    "_key": "2:39",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「ちょっと、やめてななちゃん。大声出されると頭が。」",
+    "background": "5",
+    "expression": "amazed",
+    "taps": 39
+  },
+  {
+    "_key": "2:40",
+    "id": "2",
+    "speaker": "なつみ",
+    "text": "「昨日寝すぎちゃったせいか、頭がクラクラして。なんだか肩も重くてさ。」",
+    "background": "5",
+    "expression": "sad",
+    "taps": 40
+  },
+  {
+    "_key": "2:41",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「無理しないほうがいいわよ。キツイようなら一緒に病院行く？」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 41
+  },
+  {
+    "_key": "2:42",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「いや、絶対祟られてますよ！　病院よりお祓い行きましょう！　お・は・ら・い！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 42
+  },
+  {
+    "_key": "2:43",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「春風、あんたも疲れてるみたいね。今は三波で手一杯だから、あんたは自分でなんとかしなさい。」",
+    "background": "5",
+    "expression": "amazed",
+    "taps": 43
+  },
+  {
+    "_key": "2:44",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「おはようございま～す。」",
+    "background": "5",
+    "expression": "amazed",
+    "taps": 44
+  },
+  {
+    "_key": "2:45",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「大丈夫でしたかなつみちゃん？　あのあと早退して病院に行ったんですよね。」",
+    "background": "5",
+    "expression": "amazed",
+    "taps": 45
+  },
+  {
+    "_key": "2:46",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「一緒に付いていったけど特に異常はなかったようね。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 46
+  },
+  {
+    "_key": "2:47",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「やっぱりただの過労だったみたい。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 47
+  },
+  {
+    "_key": "2:48",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「いやぁ、早く神樹先輩に連絡した方がいいと思うんですけど。」",
+    "background": "5",
+    "expression": "amazed",
+    "taps": 48
+  },
+  {
+    "_key": "2:49",
+    "id": "2",
+    "speaker": "悪霊？",
+    "text": "「ななちゃん、さあやちゃんおはよー！」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 49
+  },
+  {
+    "_key": "2:50",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「黒くなってるぅー！？」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 50
+  },
+  {
+    "_key": "2:51",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「おはよう三波。やっと元気になったみたいね。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 51
+  },
+  {
+    "_key": "2:52",
+    "id": "2",
+    "speaker": "悪霊？",
+    "text": "「うん、すっかり良くなったよ。病院で点滴打ってもらったからかな？」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 52
+  },
+  {
+    "_key": "2:53",
+    "id": "2",
+    "speaker": "悪霊？",
+    "text": "「いやーあれだけ凝ってた肩もすっかり軽くなってさ。まるで肩がないみたい♪」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 53
+  },
+  {
+    "_key": "2:54",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「肩ないじゃんッ！！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 54
+  },
+  {
+    "_key": "2:55",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「軽いとかそういう問題じゃなくて肩ないじゃん！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 55
+  },
+  {
+    "_key": "2:56",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「いやもう別物じゃないですか！　なんですかコレ！？　完全に侵食されちゃってるじゃないですか！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 56
+  },
+  {
+    "_key": "2:57",
+    "id": "2",
+    "speaker": "さあや",
+    "text": "「そう？　三波なんていつもこんな感じでしょ。デカくて、大きくて、サイズがあって。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 57
+  },
+  {
+    "_key": "2:58",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「委員長はなつみちゃんの判断基準そこなんですか？」",
+    "background": "5",
+    "expression": "amazed",
+    "taps": 58
+  },
+  {
+    "_key": "2:59",
+    "id": "2",
+    "speaker": "悪霊？",
+    "text": "「もう～あんまりデカいって言わないでよ。気にしてるんだから。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 59
+  },
+  {
+    "_key": "2:60",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「その姿でなつみちゃんっぽいこと言わないでください！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 60
+  },
+  {
+    "_key": "2:61",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「ああもう！　なつみちゃんを助けるにはどうすれば良いんですか！？」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 61
+  },
+  {
+    "_key": "2:62",
+    "id": "2",
+    "speaker": "はじめ",
+    "text": "「破ァーッ！！！」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 62
+  },
+  {
+    "_key": "2:63",
+    "id": "2",
+    "speaker": "",
+    "text": "ぼしゅうぅううう……",
+    "background": "5",
+    "expression": "normal",
+    "taps": 63
+  },
+  {
+    "_key": "2:64",
+    "id": "2",
+    "speaker": "なな",
+    "text": "（神社生まれのＫさんがそう叫ぶと手から青白い光弾が放たれ、なつみちゃんに憑りついていた黒いモノは一瞬で消滅してしまいました。）",
+    "background": "5",
+    "expression": "expressionless",
+    "taps": 64
+  },
+  {
+    "_key": "2:65",
+    "id": "2",
+    "speaker": "なな",
+    "text": "（神社生まれってすごい。改めてそう思いました。）",
+    "background": "5",
+    "expression": "expressionless",
+    "taps": 65
+  },
+  {
+    "_key": "2:66",
+    "id": "2",
+    "speaker": "なな",
+    "text": "「ああっ、つゆりちゃんにも黒いモノが憑りついています！　Ｋさんをっ、Ｋさんを呼ばなきゃ！」",
+    "background": "5",
+    "expression": "surprise",
+    "taps": 66
+  },
+  {
+    "_key": "2:67",
+    "id": "2",
+    "speaker": "つゆり",
+    "text": "「？　ああ、違うよななちゃん。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 67
+  },
+  {
+    "_key": "2:68",
+    "id": "2",
+    "speaker": "つゆり",
+    "text": "「これはね、」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 68
+  },
+  {
+    "_key": "2:69",
+    "id": "2",
+    "speaker": "つゆり",
+    "text": "「わたしの後ろに隠れてるこよちゃんだよ。」",
+    "background": "5",
+    "expression": "normal",
+    "taps": 69
+  },
+  {
+    "_key": "2:70",
+    "id": "2",
+    "speaker": "こよい",
+    "text": "「ひどい！」",
+    "background": "5",
+    "expression": "cry",
+    "taps": 70
+  }
+]
