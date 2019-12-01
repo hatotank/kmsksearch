@@ -73,7 +73,7 @@ def kmsksearch():
   # グルンガのメインクエリ作成
   groonga_query_dict["table"] = "Scenario"
   groonga_query_dict["output_columns"] = "id.capter,id.title,id.subtitle,id.episode,speaker,highlight_html(text),taps,background.name,id.type.name,expression.name,id.month.name"
-  groonga_query_dict["sort_keys"] = "id.capter,_key"
+  groonga_query_dict["sort_keys"] = "id.capter,id.order,taps"
   groonga_query_dict["command_version"] = 2
   groonga_query_dict["limit"] = PER_PAGE
   groonga_query_dict["drilldowns[expression].keys"] = "expression.name"
